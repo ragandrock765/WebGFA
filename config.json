@@ -6,8 +6,8 @@
         "webssh": 2222
     },
     "features": {
-        "interstellar": true,
-        "webssh": true
+        "interstellar": false,
+        "webssh": false
     },
     "installed": {
         "interstellar": false,
@@ -15,10 +15,10 @@
     },
     "client-config": {
         "defaultColors": {
-            "main": "#007bff",
-            "mainText": "#ffffff",
+            "main": "#AA2200",
+            "mainText": "#000000",
             "buttonText": "#ffffff",
-            "bg": "#000000"
+            "bg": "#5A5A5A"
         },
         "name": "WebGFA",
         "login": true
